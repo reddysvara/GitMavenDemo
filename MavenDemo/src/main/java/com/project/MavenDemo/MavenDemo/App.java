@@ -2,7 +2,7 @@ package com.project.MavenDemo.MavenDemo;
 
 /**
  * Hello world!
- *
+ * This is the second demo
  */
 public class App 
 {
